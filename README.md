@@ -1,0 +1,1 @@
+# D2_3_Python_Kutuphaneleri_PNMBO.ipynb
